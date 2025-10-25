@@ -1,6 +1,6 @@
 <center><b>Hey Everyone!</b></center>
 <hr>
-This is the repo for whoever is interested in learning <b>ML from scratch</b>
+This repo is for anyone who is interested in learning <b>ML from scratch</b>
 <br>
 This repo will cover everything from exploratory data analysis to building a full fledged model applying various ML algorithms including Linear Regression, Binary and multi-class classification etc.
 <br>
